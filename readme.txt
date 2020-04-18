@@ -2,5 +2,9 @@
 增加点内容看看git对内容的文字（偷偷改了点内容）
 上次没提交这次又增加点内容
 
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+=======
+Creating a new branch is quick AND simple
+
+>>>>>>> featurel
 
