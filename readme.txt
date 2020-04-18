@@ -2,9 +2,5 @@
 增加点内容看看git对内容的文字（偷偷改了点内容）
 上次没提交这次又增加点内容
 
-<<<<<<< HEAD
-=======
-Creating a new branch is quick AND simple
-
->>>>>>> featurel
+tset Fast forward --no-ff 方式 git merge
 
