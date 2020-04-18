@@ -4,4 +4,4 @@
 
 Creating a new branch is quick
 tset Fast forward --no-ff 方式 git merge
-
+new --noff git merge
