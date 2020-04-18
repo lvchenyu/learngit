@@ -3,4 +3,5 @@
 上次没提交这次又增加点内容
 
 Creating a new branch is quick
+tset Fast forward --no-ff 方式 git merge
 
