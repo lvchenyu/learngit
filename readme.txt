@@ -4,3 +4,5 @@
 
 tset Fast forward --no-ff 方式 git merge
 new --noff git merge
+this is bug fix 0.0.1
+
